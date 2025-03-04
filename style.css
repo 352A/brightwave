@@ -501,8 +501,8 @@ button {
   align-items: center;
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
   color: #fff;
-
   cursor: pointer;
+  z-index: 40;
 }
 
 /* footer section */
